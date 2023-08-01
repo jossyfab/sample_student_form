@@ -64,6 +64,10 @@
  .basic_info_five input{
    width: 48%;
  }
+ .basic-info-six input{
+  width: 100%;
+  text-align: left;
+}
  #comment{
   padding: 10px;
   width: 98%;
@@ -79,7 +83,9 @@
 
  }
 
-
+span{
+   color:red;
+}
 
 
 
